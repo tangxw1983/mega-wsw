@@ -1,0 +1,32 @@
+{
+  "name": "mega-wsw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangxw1983/mega-wsw.git"
+  },
+  "author": "tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangxw1983/mega-wsw/issues"
+  },
+  "homepage": "https://github.com/tangxw1983/mega-wsw#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "cheerio": "^0.22.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jugglingdb": "^2.0.0-rc8",
+    "mega-common": "^1.0.1",
+    "mysql": "^2.13.0",
+    "querystring": "^0.2.0",
+    "restler": "^3.4.0",
+    "sqlite3": "^3.1.8",
+    "url": "^0.11.0"
+  }
+}

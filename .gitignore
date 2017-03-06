@@ -1,0 +1,5 @@
+/node_modules
+/plugins/biz
+/node_package/tmp/*.log
+/node_package/tmp/*.txt
+/.idea
