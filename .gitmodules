@@ -1,0 +1,3 @@
+[submodule "plugins/biz"]
+	path = plugins/biz
+	url = https://github.com/SZU-BDI/hrs_data_collector_v2.git
