@@ -1,6 +1,6 @@
 {
   "name": "mega-wsw",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "jugglingdb": "^2.0.0-rc8",
-    "mega-common": "^1.0.1",
+    "mega-common": "^1.0.6",
     "mysql": "^2.13.0",
     "querystring": "^0.2.0",
     "restler": "^3.4.0",
