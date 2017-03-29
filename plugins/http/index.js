@@ -175,8 +175,7 @@ exports.exec = function(_req, cb) {
 
         wc.baseRequest(opt,function(o){
             require('../logger/index.js').log(u + o2s({exectime:o.exectime,nettime1:o.nettime1,nettime2:o.nettime2,err:o.err}), "web-time");
-
-            require('../logger/index.js').log(o2s(o), "web-time");
+            //require('../logger/index.js').log(o2s(o), "web-time");
             if(o.err){
                 cb(o.err);
             }else{
