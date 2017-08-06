@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^2.1.5",
     "cheerio": "^0.22.0",
+    "events": "^1.1.1",
     "http": "0.0.0",
     "https": "^1.0.0",
     "jugglingdb": "^2.0.0-rc8",
