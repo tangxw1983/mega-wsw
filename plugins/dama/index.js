@@ -59,11 +59,11 @@ var defaultApiConfig = {
 	// 'username': 'tangxw',
 	// 'password': 'abcd0000',
 	// 'softid': '26814',
-	// 'softkey': 'f47de09b0f5a42b19c1dfb78e566debc'				
+	// 'softkey': 'f47de09b0f5a42b19c1dfb78e566debc'
 	'username': 'wingkong1978',
 	'password': 'qazWSX12',
 	'softid': '37112',
-	'softkey': 'b1ce6e3ae2a04c5e97e6edb7cbb0cd3a'				
+	'softkey': 'b1ce6e3ae2a04c5e97e6edb7cbb0cd3a'
 };
 
 var recognition = function(callback, p) {
